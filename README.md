@@ -19,5 +19,3 @@ I am **Aziz Rosyid** working as **Software Engineering**. I am an Experienced **
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizrosyid&layout=compact&theme=dark&hide_border=true)
 
 ![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=azizrosyid&show_icons=true&hide_border=true&theme=dark)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=gkhan205)](https://github.com/azizrosyid/github-profile-trophy)
