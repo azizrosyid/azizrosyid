@@ -14,7 +14,7 @@ I am **Aziz Rosyid** working as **Software Engineering**. I am an Experienced **
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me:
-  **[Instagram](https://instagram.com/rosyidhide)**
+  **[Instagram](https://instagram.com/azizzrosyid)**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizrosyid&layout=compact&theme=dark&hide_border=true)
 
